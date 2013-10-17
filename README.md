@@ -13,6 +13,7 @@ General
 - Add in Bootstrap
 - We need a schema for how we're storing group administrators. We decided on a MySQL database since PHP plays 
 nicely with that. 
+- Loading files via PHP __autoload or via something like Composer.
 
 Views
 -----
